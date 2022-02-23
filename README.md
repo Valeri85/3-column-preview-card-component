@@ -24,16 +24,15 @@ Users should be able to:
 
 ### Screenshot
 
-Mobile design
-
--   ![](./screenshot-mobile.png)
-    Desktop design
--   ![](./screenshot-desktop.png)
+-   Mobile design
+    ![](./screenshot-mobile.png)
+-   Desktop design
+    ![](./screenshot-desktop.png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3column-preview-card-component-EvtZUB1q1)
+-   Live Site URL: [3-column preview card component](https://3-column-preview-card-component-front-end-mentor.netlify.app/)
 
 ## My process
 
