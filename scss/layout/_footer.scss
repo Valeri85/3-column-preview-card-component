@@ -1,0 +1,13 @@
+.footer {
+	margin-top: auto;
+	padding-top: 1em;
+	font-family: var(--ff-secondary);
+	color: var(--very-dark-cyan);
+	text-align: center;
+	&__text {
+		display: inline-block;
+	}
+	&__link {
+		color: var(--bright-orange);
+	}
+}

@@ -1,0 +1,8 @@
+@use '../helpers/functions';
+@use '../helpers/mixins';
+
+body {
+	display: grid;
+	text-align: left;
+	padding-block: 5em;
+}
