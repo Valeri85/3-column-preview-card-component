@@ -26,11 +26,11 @@ Users should be able to:
 
 ### Mobile design
 
-    ![](./screenshot-mobile.png)
+![](./screenshot-mobile.png)
 
 ### Desktop design
 
-    ![](./screenshot-desktop.png)
+![](./screenshot-desktop.png)
 
 ### Links
 
